@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-bottom: 500;
 }
 
 .gradient-bg {
@@ -9,7 +10,7 @@
   padding-left: 8%;
   padding-right: 8%;
   padding-top: 5%;
-  padding-bottom: 5%;
+  padding-bottom: 20%;
 
   background: url(../public/Gradient.png);
   background-blend-mode: darken;
