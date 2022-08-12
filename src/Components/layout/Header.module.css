@@ -6,8 +6,8 @@ header {
     height: 80px;
     top: 0px;
   
-    /* background: url(.../public/Gradient.png); */
-    background-color: aqua;
+    background: url(C:\Users\kesav\Downloads\ValueMatrix\public\Gradient.png);
+    /* background-color: aqua; */
     box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.25);
     display: flex;
     justify-content: space-between;
@@ -17,8 +17,8 @@ header {
     z-index: 10;
   }
   
-  h1 {
-    color: ;
+  .biased {
+    color: #050000;
     text-align: center;
     position: relative;
     width: 386px;
@@ -43,12 +43,18 @@ header {
     width: 200px;
   }
   
-  img {
+  /* img {
     /* position: absolute; */
-    width: 215px;
+    /* width: 215px;
     height: 89px;
     left: 0px;
     top: 0px;
     margin-left: -200px;
+  } */ 
+
+  .Value{
+    text-align: left;
+    color: aqua;
+
   }
   
